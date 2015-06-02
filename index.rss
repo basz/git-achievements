@@ -2,6 +2,7 @@
 <title>Bas Kamer's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Seamstress (Level 4)</title><description>amended a commit with git commit --amend.</description></item>
 <item><title>Author (Level 6)</title><description>Made 2^Level commits using git commit.</description></item>
 <item><title>Master Stone Mason (Level 7)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
 <item><title>Apprentice Seamstress (Level 3)</title><description>amended a commit with git commit --amend.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Master Carpenter (Level       22)</title><description>Custom git hooks are installed which help catch issues before they are shared.</description></item>
 <item><title>Master Carpenter (Level       20)</title><description>Custom git hooks are installed which help catch issues before they are shared.</description></item>
 <item><title>Apprentice Pedantic (Level 2)</title><description>Use the flow extension to encourage an orderly and standardized branching model</description></item>
-<item><title>Apprentice Pedantic (Level 1)</title><description>Use the flow extension to encourage an orderly and standardized branching model</description></item>
 </channel></rss>
