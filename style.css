@@ -5,6 +5,7 @@ a:visited {
 	color: gray;
 }
 body {
+    font-family: sans-serif;
     background-color: white;
     color: darkgrey;
     margin: 0 auto;
@@ -16,7 +17,6 @@ img {
     height : 50px;
 }
 li {
-    background-color: #1E2024;
     border: 1px solid gray;
     padding: .65em;
     border-radius: 5px;
