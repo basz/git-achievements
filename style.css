@@ -5,8 +5,9 @@ a:visited {
 	color: gray;
 }
 body {
-    background-color: black;
-    color: white;
+    font-family: sans-serif;
+    background-color: white;
+    color: darkgrey;
     margin: 0 auto;
     width: 700px;
     text-align: center;
@@ -16,11 +17,9 @@ img {
     height : 50px;
 }
 li {
-    background-color: #1E2024;
     border: 1px solid gray;
-    padding: .25em;
-    -moz-border-radius: 5px;
-    -webkit-border-radius: 5px;
+    padding: .65em;
+    border-radius: 5px;
     margin-bottom: .5em;
 }
 div.title {
